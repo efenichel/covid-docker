@@ -9,4 +9,6 @@ RUN install2.r --error \
     --deps TRUE \
     furrr \
     pacman \
-    tictoc
+    tictoc \
+    vroom \
+    arrow
